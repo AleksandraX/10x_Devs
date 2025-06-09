@@ -14,7 +14,7 @@
 * **Akceptacja i wersjonowanie:** Zatwierdzanie zmian przez użytkownika, śledzenie pełnej historii wersji summary i metadanych.
 * **Historia dokumentów:** Widok tabelaryczny, możliwość sortowania i podglądu szczegółów (modal summary, metadane).
 * **Rejestracja i logowanie:** Prosty mechanizm, otwarty dostęp.
-* **Eksport danych:** Możliwość eksportu widoku dashboardu (z summary, metadanymi, kategorią) do formatów innych niż markdown.
+* **Eksport danych:** Możliwość eksportu widoku dashboardu (z summary, metadanymi, kategorią) do formatu csv.
 * **Błędy i logowanie:** Informacja dla użytkownika + logowanie błędów w bazie.
 
 #### 3. Kryteria sukcesu i mierniki

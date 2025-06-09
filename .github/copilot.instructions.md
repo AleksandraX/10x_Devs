@@ -48,8 +48,18 @@
 - Use tags to group related endpoints by resource or functional area
 - Implement examples for all endpoints to facilitate easier integration by consumers
 
+## PROJECT STRUCTURE
+- .ai folder contains the most relevant documentation files about the project - In most cases it should be enough to understand the project and its requirements.
+- ideas folder contains detailed documentation files about the project - you can use it to get more context about the project or further plans or deicsion records.
+- project folder contains the source code of the project - backend and ui (frontend)
 
 ## FRONTEND
+### Project Structure
+- ui folder as the root of the frontend project
+- src/components: Contains reusable UI components
+- src/types: Contains TypeScript type definitions
+- src/utils: Contains utility functions and helpers
+- App: The main entry point of the React application
 
 ### Guidelines for REACT
 

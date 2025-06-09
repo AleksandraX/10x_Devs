@@ -12,7 +12,7 @@ Eksperci domenowi posiadają tysiące specjalistycznych plików rozrzuconych w r
 ## 3. Wymagania funkcjonalne
 1. Rejestracja konta przez formularz (email + hasło, brak ograniczenia domeny).  
 2. Logowanie i sesje użytkownika (timeout 30 min).  
-3. Formularz uploadu maks. 5 PDF (łącznie ≤ 50 MB, ≤ 1000 stron na plik).  
+3. Formularz uploadu maks. 1 PDF(zmiana na z 5 na 1) (łącznie ≤ 50 MB, ≤ 1000 stron na plik).  
 4. Konwersja PDF → markdown.  
 5. Ekstrakcja metadanych: nazwa pliku, data utworzenia, data modyfikacji, edytujący, poziom zabezpieczenia (jeśli zawarte).  
 6. Generowanie streszczenia (≤ 4400 znaków ≈ 2 strony A4) oraz kategoryzacji z LLM.  
