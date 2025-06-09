@@ -16,6 +16,7 @@ Stworzenie Proof of Concept (PoC) aplikacji, która umożliwia opisanie dokument
 
 3. **Opis dokumentu**:  
    - Wygenerowanie krótkiego streszczenia (max 4400 znaków).  
+   - Skategoryzowanie dokumentu: domena + typ dokumentu
    - Wyciągnięcie podstawowych metadanych:  
      - Nazwa pliku.  
      - Liczba stron.  
